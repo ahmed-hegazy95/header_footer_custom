@@ -9,7 +9,7 @@
     'category': 'tools',
     'images':['static/description/main_photo.jpeg'],
     'version': '14.0.1.0.1',
-    'price': 24.99,
+    'price': 14.99,
     'currency': 'USD',
     'depends': [
         'base',
